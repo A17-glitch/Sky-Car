@@ -1,9 +1,6 @@
 # Sky-Car
 A Flappy Bird style game where an electric car flies through pipes. Built with HTML and JavaScript.
 
-
-# Sky Car
-
 A small Flappy Bird style game. You fly an electric car through green pipes.
 Made for fun with HTML and JavaScript.
 
